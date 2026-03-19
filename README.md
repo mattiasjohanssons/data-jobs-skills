@@ -1,8 +1,10 @@
 # Data Jobs Skills Explorer
 
+Try the app: [https://data-jobs-skills.streamlit.app/](https://data-jobs-skills.streamlit.app/)
+
 Interactive Streamlit app that fetches real job postings from the **JobSearch API** and summarizes **which skills are most frequently mentioned** for selected data roles.
 
-Built to be **simple, explainable, and interview-friendly**: Python + pandas + regex-based extraction + clean charts.
+Built to be **simple and explainable**: Python + pandas + regex-based extraction + clean charts.
 
 ## Highlights
 
